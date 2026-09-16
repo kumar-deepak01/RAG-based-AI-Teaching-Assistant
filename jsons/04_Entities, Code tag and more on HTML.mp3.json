@@ -1,0 +1,2203 @@
+{
+  "chunks": [
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 0.0,
+      "end": 2.6,
+      "text": " Guys, we have seen almost everything in HTML."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 2.6,
+      "end": 5.28,
+      "text": " In today's video, we will conclude HTML"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 5.28,
+      "end": 7.48,
+      "text": " and talk about some miscellaneous things"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 7.48,
+      "end": 10.040000000000001,
+      "text": " which will help you a lot in your web development journey."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 10.040000000000001,
+      "end": 12.52,
+      "text": " After that, we will start CSS from the coming videos."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 12.52,
+      "end": 14.72,
+      "text": " I am very excited to conclude HTML."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 14.72,
+      "end": 18.92,
+      "text": " You guys like this video and write Sigma patch op in the comment section below."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 18.92,
+      "end": 20.28,
+      "text": " Let's go to the computer screen."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 20.28,
+      "end": 21.68,
+      "text": " Let's roll the intro."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 30.72,
+      "end": 33.56,
+      "text": " So guys, as you can see, I have come to my computer screen."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 33.56,
+      "end": 36.2,
+      "text": " And without wasting time, I will create a new folder here."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 36.2,
+      "end": 37.88,
+      "text": " I will name it video 13."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 37.88,
+      "end": 41.0,
+      "text": " I will come in this, click on shift and right click and open the VS code."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 41.0,
+      "end": 45.120000000000005,
+      "text": " And I will make a file index.html."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 45.120000000000005,
+      "end": 45.8,
+      "text": " Okay."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 45.8,
+      "end": 49.04,
+      "text": " Now here I have given the file index.html."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 49.04,
+      "end": 50.92,
+      "text": " Now I want to tell you one thing."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 50.92,
+      "end": 55.400000000000006,
+      "text": " There are many things in HTML that you have to explore yourself."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 55.400000000000006,
+      "end": 59.400000000000006,
+      "text": " I will tell you some things here and after this video, I will conclude HTML."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 59.4,
+      "end": 61.24,
+      "text": " If you want in HTML,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 61.24,
+      "end": 65.36,
+      "text": " I will turn on Word Wrap and toggle Screencast Mode."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 65.36,
+      "end": 67.56,
+      "text": " Suppose you want to write this in HTML,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 67.56,
+      "end": 69.12,
+      "text": " 3 is greater than 4."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 69.12,
+      "end": 70.52,
+      "text": " Suppose you want to write this."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 70.52,
+      "end": 72.72,
+      "text": " If you try to write this in HTML,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 72.72,
+      "end": 74.32,
+      "text": " I will show you the preview of this."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 74.32,
+      "end": 76.44,
+      "text": " So it came here by writing 3 is greater than 4."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 76.44,
+      "end": 78.32,
+      "text": " Now suppose I write here,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 78.32,
+      "end": 81.28,
+      "text": " this is the code for paragraph."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 81.28,
+      "end": 81.8,
+      "text": " Okay."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 81.8,
+      "end": 83.88,
+      "text": " And I write something like this."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 83.88,
+      "end": 85.72,
+      "text": " Now I have written this here."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 85.72,
+      "end": 88.0,
+      "text": " I want it to appear."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 88.2,
+      "end": 90.8,
+      "text": " But you see here, it will not appear."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 90.8,
+      "end": 91.8,
+      "text": " Why not?"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 91.8,
+      "end": 94.6,
+      "text": " Because how will it know that I want to write the code for paragraph"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 94.6,
+      "end": 97.8,
+      "text": " or I want to use this p tag as a syntax."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 97.8,
+      "end": 100.72,
+      "text": " So HTML entities are to be avoided from this."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 100.72,
+      "end": 103.24,
+      "text": " Now let me tell you what HTML entities are."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 103.24,
+      "end": 106.08,
+      "text": " If you write ampersand lt semicolon here,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 106.08,
+      "end": 107.36,
+      "text": " lt for less than,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 107.36,
+      "end": 110.32,
+      "text": " then you can write it as lt semicolon."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 110.32,
+      "end": 113.6,
+      "text": " Now if you write ampersand lt semicolon here,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 113.6,
+      "end": 116.6,
+      "text": " and replace it with ampersand lt semicolon,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 116.6,
+      "end": 120.47999999999999,
+      "text": " and you replace the greater than with ampersand gt semicolon."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 120.47999999999999,
+      "end": 122.47999999999999,
+      "text": " I will show you this thing."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 122.47999999999999,
+      "end": 125.96,
+      "text": " If you replace it with ampersand gt semicolon,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 125.96,
+      "end": 127.16,
+      "text": " then what will happen?"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 127.16,
+      "end": 131.44,
+      "text": " That it will appear here as it is written."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 131.44,
+      "end": 133.72,
+      "text": " As you can see, I will zoom in and show you."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 133.72,
+      "end": 134.32,
+      "text": " Okay."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 134.32,
+      "end": 137.84,
+      "text": " So what happens is that HTML entities are used"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 137.84,
+      "end": 141.84,
+      "text": " to write those things that may collide with the syntax of HTML."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 141.84,
+      "end": 143.35999999999999,
+      "text": " What does it mean to collide?"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 143.36,
+      "end": 146.28,
+      "text": " If we write the code of paragraph tag here,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 146.28,
+      "end": 149.0,
+      "text": " then how will HTML know that this is the code of paragraph tag?"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 149.0,
+      "end": 151.72000000000003,
+      "text": " Or if you want to write this thing as it is."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 151.72000000000003,
+      "end": 153.24,
+      "text": " There is also a pre tag for this."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 153.24,
+      "end": 155.12,
+      "text": " If you put anything in the pre tag"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 155.12,
+      "end": 156.12,
+      "text": " and you write here,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 156.12,
+      "end": 158.88000000000002,
+      "text": " then p, this is a para."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 158.88000000000002,
+      "end": 160.88000000000002,
+      "text": " So if you write it like this,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 160.88000000000002,
+      "end": 162.48000000000002,
+      "text": " then it will come here as it is."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 162.48000000000002,
+      "end": 163.44000000000003,
+      "text": " As you can see."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 163.44000000000003,
+      "end": 164.0,
+      "text": " Okay."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 164.0,
+      "end": 165.60000000000002,
+      "text": " It will come as it is."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 165.60000000000002,
+      "end": 167.20000000000002,
+      "text": " And along with that,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 167.20000000000002,
+      "end": 168.92000000000002,
+      "text": " if you write new lines here,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 168.92000000000002,
+      "end": 172.48000000000002,
+      "text": " this is after few new lines."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 172.48000000000002,
+      "end": 172.84,
+      "text": " Okay."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 172.84,
+      "end": 174.68,
+      "text": " And some more."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 174.68,
+      "end": 175.88,
+      "text": " If you write like this,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 175.88,
+      "end": 177.48,
+      "text": " then see this, it will come as it is."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 177.48,
+      "end": 179.0,
+      "text": " Keeping all the spaces intact,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 179.0,
+      "end": 180.92000000000002,
+      "text": " keeping all the new lines intact."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 180.92000000000002,
+      "end": 182.84,
+      "text": " But it is not that tags will show up here."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 182.84,
+      "end": 185.24,
+      "text": " For tags, we will have to use entities."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 185.24,
+      "end": 187.2,
+      "text": " So this happens in pre tag HTML."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 187.2,
+      "end": 188.36,
+      "text": " So we have seen entities,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 188.36,
+      "end": 189.44,
+      "text": " we have seen pre tag."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 189.44,
+      "end": 191.12,
+      "text": " If you want to put a copyright symbol,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 191.12,
+      "end": 194.32,
+      "text": " then you can write ampersand copy semicolon."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 194.32,
+      "end": 196.8,
+      "text": " And as soon as you write ampersand copy semicolon here,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 196.8,
+      "end": 198.84,
+      "text": " then you will get to see the copyright symbol here."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 198.84,
+      "end": 199.88,
+      "text": " As you can see."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 199.88,
+      "end": 200.44,
+      "text": " Okay."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 200.44,
+      "end": 203.2,
+      "text": " So you can do such things with the help of HTML entities."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 203.2,
+      "end": 205.04,
+      "text": " So you try out all these examples."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 205.04,
+      "end": 206.68,
+      "text": " Non-breaking spaces."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 206.68,
+      "end": 207.48,
+      "text": " Along with that,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 207.48,
+      "end": 208.76,
+      "text": " you can use special symbols."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 208.76,
+      "end": 210.16,
+      "text": " Like we saw copyright."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 210.16,
+      "end": 213.56,
+      "text": " ampersand nbsp is used for space."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 213.56,
+      "end": 214.84,
+      "text": " And it is very important."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 214.84,
+      "end": 217.4,
+      "text": " So if I write here copyright."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 217.4,
+      "end": 217.64,
+      "text": " Okay."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 217.64,
+      "end": 220.4,
+      "text": " I write here copyright."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 220.4,
+      "end": 221.8,
+      "text": " And suppose I want for some reason,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 221.8,
+      "end": 223.44,
+      "text": " after seeing a lot of spaces here."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 223.44,
+      "end": 225.12,
+      "text": " And I write here code with Harry."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 225.12,
+      "end": 225.6,
+      "text": " Okay."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 225.6,
+      "end": 227.32,
+      "text": " So if I write copyright code with Harry,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 227.32,
+      "end": 228.96,
+      "text": " then this space will be considered as a fake space."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 228.96,
+      "end": 231.76000000000002,
+      "text": " Because the extra spaces in HTML are ignored."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 231.76000000000002,
+      "end": 232.96,
+      "text": " So if you see here,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 232.96,
+      "end": 235.60000000000002,
+      "text": " then the code with Harry came immediately after the copyright."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 235.60000000000002,
+      "end": 237.92000000000002,
+      "text": " But ideally we don't want that."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 237.92000000000002,
+      "end": 238.76000000000002,
+      "text": " What do we want?"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 238.76000000000002,
+      "end": 240.92000000000002,
+      "text": " We want that the spaces that I have put,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 240.92000000000002,
+      "end": 241.52,
+      "text": " they come."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 241.52,
+      "end": 242.8,
+      "text": " So don't put spaces."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 242.8,
+      "end": 244.36,
+      "text": " You put ampersand nbsp."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 244.36,
+      "end": 246.8,
+      "text": " The more you put ampersand nbsp,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 246.8,
+      "end": 247.60000000000002,
+      "text": " the more spaces will come."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 247.60000000000002,
+      "end": 248.28,
+      "text": " You see here."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 248.28,
+      "end": 249.44,
+      "text": " These spaces are coming."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 249.44,
+      "end": 252.20000000000002,
+      "text": " So whenever you want to put space in your HTML code,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 252.20000000000002,
+      "end": 255.44,
+      "text": " ampersand nbsp is something you should go after."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 255.44,
+      "end": 255.84,
+      "text": " Okay."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 255.96,
+      "end": 256.76,
+      "text": " So here,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 256.76,
+      "end": 259.28000000000003,
+      "text": " how to put these breaking spaces."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 259.28000000000003,
+      "end": 260.2,
+      "text": " And along with that,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 260.2,
+      "end": 261.68,
+      "text": " the reserved characters in HTML,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 261.68,
+      "end": 263.04,
+      "text": " like less than, greater than,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 263.04,
+      "end": 265.04,
+      "text": " you can do all this with HTML entities."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 265.04,
+      "end": 266.0,
+      "text": " After this,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 266.0,
+      "end": 267.36,
+      "text": " what is quotation tag?"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 267.36,
+      "end": 270.48,
+      "text": " Quotation tag helps you write quotation in this way."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 270.48,
+      "end": 272.96,
+      "text": " I will tell you the example of quotation tag here."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 272.96,
+      "end": 274.96,
+      "text": " So the quotation tag works like this."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 274.96,
+      "end": 275.96,
+      "text": " And as soon as you write,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 275.96,
+      "end": 277.32,
+      "text": " this quotation text here."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 277.32,
+      "end": 279.08,
+      "text": " So what will happen is that the search engines will know"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 279.08,
+      "end": 280.72,
+      "text": " that you are actually writing a quotation."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 280.72,
+      "end": 281.24,
+      "text": " Okay."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 281.24,
+      "end": 284.24,
+      "text": " And you can also style it with CSS."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 284.36,
+      "end": 287.2,
+      "text": " Then here if you want to cite anything,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 287.2,
+      "end": 288.92,
+      "text": " you can put its URL."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 288.92,
+      "end": 290.92,
+      "text": " Similarly, you can also use Q tag."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 290.92,
+      "end": 291.68,
+      "text": " Site is equal to,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 291.68,
+      "end": 292.68,
+      "text": " put the URL here."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 292.68,
+      "end": 292.92,
+      "text": " Okay."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 292.92,
+      "end": 295.92,
+      "text": " So if you want to cite any research article,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 295.92,
+      "end": 297.0,
+      "text": " or there can be other reasons."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 297.0,
+      "end": 298.6,
+      "text": " If you want to cite Wikipedia,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 298.6,
+      "end": 300.08,
+      "text": " then this tag is used."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 300.08,
+      "end": 300.52,
+      "text": " Okay."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 300.52,
+      "end": 301.56,
+      "text": " And you can style it,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 301.56,
+      "end": 303.24,
+      "text": " obviously with the help of CSS."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 303.24,
+      "end": 305.28000000000003,
+      "text": " So these are our quotation tags."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 305.28000000000003,
+      "end": 305.64,
+      "text": " Okay."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 305.64,
+      "end": 307.0,
+      "text": " And HTML entities."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 307.0,
+      "end": 308.68,
+      "text": " Then there are some HTML tags"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 308.68,
+      "end": 309.68,
+      "text": " that have become obsolete."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 309.68,
+      "end": 311.2,
+      "text": " Like font tag has become obsolete"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 311.2,
+      "end": 312.56,
+      "text": " because now with the help of CSS,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 312.56,
+      "end": 314.04,
+      "text": " we handle font."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 314.04,
+      "end": 315.68,
+      "text": " We don't use font tag."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 315.68,
+      "end": 317.44,
+      "text": " There were many attributes in font,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 317.44,
+      "end": 318.88,
+      "text": " like color, size,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 318.88,
+      "end": 321.88,
+      "text": " and in this way you can use font tag."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 321.88,
+      "end": 323.36,
+      "text": " But it's not recommended"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 323.36,
+      "end": 324.88,
+      "text": " that you use font tag."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 324.88,
+      "end": 325.76000000000005,
+      "text": " Then center tag,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 325.76000000000005,
+      "end": 328.40000000000003,
+      "text": " it was helpful in centering things."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 328.40000000000003,
+      "end": 330.36,
+      "text": " But now I will recommend you"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 330.36,
+      "end": 331.72,
+      "text": " that we will center with CSS."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 331.72,
+      "end": 332.6,
+      "text": " Flexbox Grid etc."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 332.6,
+      "end": 334.12,
+      "text": " The modern CSS will learn."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 334.12,
+      "end": 335.52000000000004,
+      "text": " So all these tags are those"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 335.52000000000004,
+      "end": 337.68,
+      "text": " about which you should know."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 337.68,
+      "end": 338.92,
+      "text": " But you should also know"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 338.92,
+      "end": 340.20000000000005,
+      "text": " that you don't have to use them."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 340.20000000000005,
+      "end": 340.72,
+      "text": " Okay."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 340.72,
+      "end": 342.04,
+      "text": " I hope that helps."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 342.04,
+      "end": 342.92,
+      "text": " Then code tag."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 342.92,
+      "end": 344.72,
+      "text": " Tag is the most important for coders."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 344.72,
+      "end": 346.68,
+      "text": " Like you are seeing this website here,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 346.68,
+      "end": 347.56,
+      "text": " codewithari.com."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 347.56,
+      "end": 348.24,
+      "text": " Here you are seeing"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 348.24,
+      "end": 350.72,
+      "text": " that I have used the code tag here."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 350.72,
+      "end": 354.12,
+      "text": " And if you are very excited about this,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 354.12,
+      "end": 354.64000000000004,
+      "text": " then let me tell you"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 354.64000000000004,
+      "end": 357.28000000000003,
+      "text": " that I am using a library called Prism CSS."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 357.28000000000003,
+      "end": 359.0,
+      "text": " Many people ask me."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 359.0,
+      "end": 360.40000000000003,
+      "text": " And I will tell you"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 360.40000000000003,
+      "end": 361.32,
+      "text": " how to do all these things."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 361.32,
+      "end": 362.64,
+      "text": " Prism JS."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 362.64,
+      "end": 363.40000000000003,
+      "text": " Prism JS."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 363.40000000000003,
+      "end": 364.44,
+      "text": " Yes, Prism.js."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 364.44,
+      "end": 365.20000000000005,
+      "text": " What happens with this"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 365.20000000000005,
+      "end": 366.76,
+      "text": " is that your code is highlighted in this way."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 366.76,
+      "end": 368.28000000000003,
+      "text": " You can put code in your blog etc."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 368.28000000000003,
+      "end": 369.64,
+      "text": " So I am using this library."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 369.64,
+      "end": 370.84000000000003,
+      "text": " I will tell you how to do everything."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 370.84000000000003,
+      "end": 372.32,
+      "text": " I am also using React in this."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 372.32,
+      "end": 374.12,
+      "text": " We are going to read all those things later."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 374.12,
+      "end": 375.32,
+      "text": " So don't worry at all."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 375.32,
+      "end": 377.52,
+      "text": " But if you want to write code in this way,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 377.52,
+      "end": 379.0,
+      "text": " then you have to use the code tag."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 379.0,
+      "end": 380.32,
+      "text": " If you go to its source code"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 380.32,
+      "end": 381.04,
+      "text": " by right clicking,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 381.04,
+      "end": 381.71999999999997,
+      "text": " then you will see"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 381.71999999999997,
+      "end": 383.2,
+      "text": " that any code is written"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 383.2,
+      "end": 385.08,
+      "text": " is written in the code tag in the pre."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 385.08,
+      "end": 385.88,
+      "text": " See, I have put pre"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 385.88,
+      "end": 386.88,
+      "text": " and then I have put code tag."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 386.88,
+      "end": 387.8,
+      "text": " If you look below,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 387.8,
+      "end": 389.48,
+      "text": " then any kind of code"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 389.48,
+      "end": 390.6,
+      "text": " if you get on my site,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 390.6,
+      "end": 391.8,
+      "text": " then it will be in the code tag."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 391.8,
+      "end": 392.28,
+      "text": " Okay."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 392.28,
+      "end": 394.2,
+      "text": " So here you can copy this code"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 394.2,
+      "end": 395.96,
+      "text": " and then you can paste it and run it."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 395.96,
+      "end": 398.03999999999996,
+      "text": " So you can also write your own multi-line code"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 398.03999999999996,
+      "end": 398.76,
+      "text": " in the pre."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 398.76,
+      "end": 399.64,
+      "text": " Why is pre put?"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 399.64,
+      "end": 401.36,
+      "text": " So that the new lines are intact."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 401.36,
+      "end": 403.92,
+      "text": " Assume that I want to write a code here."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 403.92,
+      "end": 405.52000000000004,
+      "text": " And here I want to write"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 405.52000000000004,
+      "end": 406.72,
+      "text": " a Python code."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 406.72,
+      "end": 407.44,
+      "text": " Okay."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 407.44,
+      "end": 409.12,
+      "text": " Or I want to write HTML code."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 409.12,
+      "end": 410.24,
+      "text": " I will do Ctrl N"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 410.24,
+      "end": 412.12,
+      "text": " and here I will do HTML."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 412.12,
+      "end": 415.32,
+      "text": " And I will enter by marking the exclamation mark."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 415.32,
+      "end": 416.96000000000004,
+      "text": " And here I will copy and paste."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 416.96000000000004,
+      "end": 418.48,
+      "text": " And I will write here in H1"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 418.48,
+      "end": 419.12,
+      "text": " that this is"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 419.12,
+      "end": 420.64,
+      "text": " I will write in H1"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 420.64,
+      "end": 425.12,
+      "text": " this is HTML boilerplate code."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 425.12,
+      "end": 425.68,
+      "text": " Okay."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 425.68,
+      "end": 428.0,
+      "text": " So if I preview this,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 428.0,
+      "end": 429.68,
+      "text": " then here"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 429.68,
+      "end": 431.08000000000004,
+      "text": " this is HTML boilerplate code"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 431.08,
+      "end": 432.35999999999996,
+      "text": " which is actually rendered."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 432.35999999999996,
+      "end": 434.59999999999997,
+      "text": " If I want to write the code as it is,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 434.59999999999997,
+      "end": 435.59999999999997,
+      "text": " then what I have to do"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 435.59999999999997,
+      "end": 438.24,
+      "text": " is that I have to replace this less than sign."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 438.24,
+      "end": 440.24,
+      "text": " I will do right click change all occurrences."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 440.24,
+      "end": 441.64,
+      "text": " And what I will do here"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 441.64,
+      "end": 442.84,
+      "text": " ampersand"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 442.84,
+      "end": 443.71999999999997,
+      "text": " lt semicolon."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 443.71999999999997,
+      "end": 445.24,
+      "text": " I told you lt semicolon."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 445.24,
+      "end": 445.84,
+      "text": " And along with that,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 445.84,
+      "end": 446.91999999999996,
+      "text": " this greater than symbol"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 446.91999999999996,
+      "end": 448.91999999999996,
+      "text": " is changed by right clicking all occurrences."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 448.91999999999996,
+      "end": 450.32,
+      "text": " ampersand"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 450.32,
+      "end": 451.44,
+      "text": " ampersand"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 451.44,
+      "end": 452.84,
+      "text": " gt semicolon."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 452.84,
+      "end": 454.56,
+      "text": " Now I will paste this code there."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 454.56,
+      "end": 456.03999999999996,
+      "text": " I can't do as it is paste."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 456.03999999999996,
+      "end": 456.64,
+      "text": " Okay."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 456.64,
+      "end": 458.24,
+      "text": " So this thing is also very important."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 458.24,
+      "end": 460.15999999999997,
+      "text": " Now see it will come here."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 460.20000000000005,
+      "end": 462.20000000000005,
+      "text": " So see here this code has come as it is."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 462.20000000000005,
+      "end": 463.6,
+      "text": " So anyone who wants to copy etc."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 463.6,
+      "end": 464.12,
+      "text": " can do it."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 464.12,
+      "end": 464.96000000000004,
+      "text": " You have to note one thing"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 464.96000000000004,
+      "end": 466.56,
+      "text": " that these spaces are also coming due to pre tag."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 466.56,
+      "end": 468.16,
+      "text": " If you want these spaces to not come,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 468.16,
+      "end": 469.64000000000004,
+      "text": " then you select them."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 469.64000000000004,
+      "end": 471.24,
+      "text": " Press shift and tab."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 471.24,
+      "end": 472.24,
+      "text": " So what happens with shift tab?"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 472.24,
+      "end": 473.20000000000005,
+      "text": " One indent is reduced."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 473.20000000000005,
+      "end": 474.04,
+      "text": " Okay."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 474.04,
+      "end": 475.04,
+      "text": " So you can do this."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 475.04,
+      "end": 476.04,
+      "text": " And after that"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 476.04,
+      "end": 478.04,
+      "text": " press backspace here."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 478.04,
+      "end": 479.32000000000005,
+      "text": " And I will remove extra space from here too."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 479.32000000000005,
+      "end": 480.20000000000005,
+      "text": " And you see your code"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 480.20000000000005,
+      "end": 481.40000000000003,
+      "text": " has come as you want."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 481.40000000000003,
+      "end": 482.24,
+      "text": " But okay."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 482.24,
+      "end": 484.36,
+      "text": " And you can style it with CSS etc."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 484.36,
+      "end": 486.28000000000003,
+      "text": " Prism will use CSS."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 486.28000000000003,
+      "end": 487.44000000000005,
+      "text": " I will tell you how to use"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 487.44000000000005,
+      "end": 488.96000000000004,
+      "text": " this kind of libraries."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 488.96,
+      "end": 490.64,
+      "text": " A lot of things are going to happen in the coming videos."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 490.64,
+      "end": 491.76,
+      "text": " I just wanted to tell you"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 491.76,
+      "end": 493.88,
+      "text": " about some tags of HTML"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 493.88,
+      "end": 495.28,
+      "text": " about which you should know."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 495.28,
+      "end": 495.64,
+      "text": " Okay."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 495.64,
+      "end": 497.03999999999996,
+      "text": " After this character sets."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 497.03999999999996,
+      "end": 498.03999999999996,
+      "text": " Character sets means"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 498.03999999999996,
+      "end": 499.32,
+      "text": " which characters are you using"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 499.32,
+      "end": 500.32,
+      "text": " in your page."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 500.32,
+      "end": 501.32,
+      "text": " Then canvas."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 501.32,
+      "end": 502.44,
+      "text": " What is canvas?"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 502.44,
+      "end": 504.24,
+      "text": " Basically, the use of canvas"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 504.24,
+      "end": 505.84,
+      "text": " is mainly done through JavaScript."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 505.84,
+      "end": 506.44,
+      "text": " But"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 506.44,
+      "end": 508.24,
+      "text": " canvas you understand it like this"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 508.24,
+      "end": 510.08,
+      "text": " that there is an element in HTML"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 510.08,
+      "end": 512.28,
+      "text": " with which we make graphical shapes etc."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 512.28,
+      "end": 512.8,
+      "text": " Okay."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 512.8,
+      "end": 514.64,
+      "text": " I hope that in this video"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 514.64,
+      "end": 516.3199999999999,
+      "text": " you have understood HTML"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 516.3199999999999,
+      "end": 517.6,
+      "text": " completely."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 517.6,
+      "end": 518.6,
+      "text": " In the coming videos,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 518.6,
+      "end": 520.36,
+      "text": " we will do CSS."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 520.36,
+      "end": 522.2,
+      "text": " HTML has been concluded."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 522.2,
+      "end": 523.6800000000001,
+      "text": " I hope you are enjoying."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 523.6800000000001,
+      "end": 524.6800000000001,
+      "text": " All the source code"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 524.6800000000001,
+      "end": 525.6800000000001,
+      "text": " is being uploaded on GitHub."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 525.6800000000001,
+      "end": 527.12,
+      "text": " So do access it."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 527.12,
+      "end": 528.48,
+      "text": " Along with that,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 528.48,
+      "end": 529.9200000000001,
+      "text": " if you are not accessing this playlist,"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 529.9200000000001,
+      "end": 531.76,
+      "text": " then click here and bookmark it."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 531.76,
+      "end": 533.0400000000001,
+      "text": " Or click and save it."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 533.0400000000001,
+      "end": 534.6,
+      "text": " That's all for this video guys."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 534.6,
+      "end": 535.48,
+      "text": " Thank you so much guys"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 535.48,
+      "end": 536.48,
+      "text": " for watching this video."
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 536.48,
+      "end": 537.96,
+      "text": " And I will see you"
+    },
+    {
+      "number": "4",
+      "title": "Entities, Code tag and more on HTML",
+      "start": 537.96,
+      "end": 538.96,
+      "text": " next time."
+    }
+  ],
+  "text": " Guys, we have seen almost everything in HTML. In today's video, we will conclude HTML and talk about some miscellaneous things which will help you a lot in your web development journey. After that, we will start CSS from the coming videos. I am very excited to conclude HTML. You guys like this video and write Sigma patch op in the comment section below. Let's go to the computer screen. Let's roll the intro. So guys, as you can see, I have come to my computer screen. And without wasting time, I will create a new folder here. I will name it video 13. I will come in this, click on shift and right click and open the VS code. And I will make a file index.html. Okay. Now here I have given the file index.html. Now I want to tell you one thing. There are many things in HTML that you have to explore yourself. I will tell you some things here and after this video, I will conclude HTML. If you want in HTML, I will turn on Word Wrap and toggle Screencast Mode. Suppose you want to write this in HTML, 3 is greater than 4. Suppose you want to write this. If you try to write this in HTML, I will show you the preview of this. So it came here by writing 3 is greater than 4. Now suppose I write here, this is the code for paragraph. Okay. And I write something like this. Now I have written this here. I want it to appear. But you see here, it will not appear. Why not? Because how will it know that I want to write the code for paragraph or I want to use this p tag as a syntax. So HTML entities are to be avoided from this. Now let me tell you what HTML entities are. If you write ampersand lt semicolon here, lt for less than, then you can write it as lt semicolon. Now if you write ampersand lt semicolon here, and replace it with ampersand lt semicolon, and you replace the greater than with ampersand gt semicolon. I will show you this thing. If you replace it with ampersand gt semicolon, then what will happen? That it will appear here as it is written. As you can see, I will zoom in and show you. Okay. So what happens is that HTML entities are used to write those things that may collide with the syntax of HTML. What does it mean to collide? If we write the code of paragraph tag here, then how will HTML know that this is the code of paragraph tag? Or if you want to write this thing as it is. There is also a pre tag for this. If you put anything in the pre tag and you write here, then p, this is a para. So if you write it like this, then it will come here as it is. As you can see. Okay. It will come as it is. And along with that, if you write new lines here, this is after few new lines. Okay. And some more. If you write like this, then see this, it will come as it is. Keeping all the spaces intact, keeping all the new lines intact. But it is not that tags will show up here. For tags, we will have to use entities. So this happens in pre tag HTML. So we have seen entities, we have seen pre tag. If you want to put a copyright symbol, then you can write ampersand copy semicolon. And as soon as you write ampersand copy semicolon here, then you will get to see the copyright symbol here. As you can see. Okay. So you can do such things with the help of HTML entities. So you try out all these examples. Non-breaking spaces. Along with that, you can use special symbols. Like we saw copyright. ampersand nbsp is used for space. And it is very important. So if I write here copyright. Okay. I write here copyright. And suppose I want for some reason, after seeing a lot of spaces here. And I write here code with Harry. Okay. So if I write copyright code with Harry, then this space will be considered as a fake space. Because the extra spaces in HTML are ignored. So if you see here, then the code with Harry came immediately after the copyright. But ideally we don't want that. What do we want? We want that the spaces that I have put, they come. So don't put spaces. You put ampersand nbsp. The more you put ampersand nbsp, the more spaces will come. You see here. These spaces are coming. So whenever you want to put space in your HTML code, ampersand nbsp is something you should go after. Okay. So here, how to put these breaking spaces. And along with that, the reserved characters in HTML, like less than, greater than, you can do all this with HTML entities. After this, what is quotation tag? Quotation tag helps you write quotation in this way. I will tell you the example of quotation tag here. So the quotation tag works like this. And as soon as you write, this quotation text here. So what will happen is that the search engines will know that you are actually writing a quotation. Okay. And you can also style it with CSS. Then here if you want to cite anything, you can put its URL. Similarly, you can also use Q tag. Site is equal to, put the URL here. Okay. So if you want to cite any research article, or there can be other reasons. If you want to cite Wikipedia, then this tag is used. Okay. And you can style it, obviously with the help of CSS. So these are our quotation tags. Okay. And HTML entities. Then there are some HTML tags that have become obsolete. Like font tag has become obsolete because now with the help of CSS, we handle font. We don't use font tag. There were many attributes in font, like color, size, and in this way you can use font tag. But it's not recommended that you use font tag. Then center tag, it was helpful in centering things. But now I will recommend you that we will center with CSS. Flexbox Grid etc. The modern CSS will learn. So all these tags are those about which you should know. But you should also know that you don't have to use them. Okay. I hope that helps. Then code tag. Tag is the most important for coders. Like you are seeing this website here, codewithari.com. Here you are seeing that I have used the code tag here. And if you are very excited about this, then let me tell you that I am using a library called Prism CSS. Many people ask me. And I will tell you how to do all these things. Prism JS. Prism JS. Yes, Prism.js. What happens with this is that your code is highlighted in this way. You can put code in your blog etc. So I am using this library. I will tell you how to do everything. I am also using React in this. We are going to read all those things later. So don't worry at all. But if you want to write code in this way, then you have to use the code tag. If you go to its source code by right clicking, then you will see that any code is written is written in the code tag in the pre. See, I have put pre and then I have put code tag. If you look below, then any kind of code if you get on my site, then it will be in the code tag. Okay. So here you can copy this code and then you can paste it and run it. So you can also write your own multi-line code in the pre. Why is pre put? So that the new lines are intact. Assume that I want to write a code here. And here I want to write a Python code. Okay. Or I want to write HTML code. I will do Ctrl N and here I will do HTML. And I will enter by marking the exclamation mark. And here I will copy and paste. And I will write here in H1 that this is I will write in H1 this is HTML boilerplate code. Okay. So if I preview this, then here this is HTML boilerplate code which is actually rendered. If I want to write the code as it is, then what I have to do is that I have to replace this less than sign. I will do right click change all occurrences. And what I will do here ampersand lt semicolon. I told you lt semicolon. And along with that, this greater than symbol is changed by right clicking all occurrences. ampersand ampersand gt semicolon. Now I will paste this code there. I can't do as it is paste. Okay. So this thing is also very important. Now see it will come here. So see here this code has come as it is. So anyone who wants to copy etc. can do it. You have to note one thing that these spaces are also coming due to pre tag. If you want these spaces to not come, then you select them. Press shift and tab. So what happens with shift tab? One indent is reduced. Okay. So you can do this. And after that press backspace here. And I will remove extra space from here too. And you see your code has come as you want. But okay. And you can style it with CSS etc. Prism will use CSS. I will tell you how to use this kind of libraries. A lot of things are going to happen in the coming videos. I just wanted to tell you about some tags of HTML about which you should know. Okay. After this character sets. Character sets means which characters are you using in your page. Then canvas. What is canvas? Basically, the use of canvas is mainly done through JavaScript. But canvas you understand it like this that there is an element in HTML with which we make graphical shapes etc. Okay. I hope that in this video you have understood HTML completely. In the coming videos, we will do CSS. HTML has been concluded. I hope you are enjoying. All the source code is being uploaded on GitHub. So do access it. Along with that, if you are not accessing this playlist, then click here and bookmark it. Or click and save it. That's all for this video guys. Thank you so much guys for watching this video. And I will see you next time."
+}
