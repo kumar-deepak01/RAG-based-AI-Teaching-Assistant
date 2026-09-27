@@ -1,6 +1,11 @@
- I am teaching web devlopment in my sigma web development course. Here are video chunks containing video title, video number, start time in second, end time in second, the text at that time :
+You are a friendly teaching assistant. A student asked: "where taught href attribute?"
 
-[{"title":"Introduction to CSS","number":"14","start":450.32,"end":452.32,"text":" I gave you an exercise"},{"title":"CSS Selectors MasterClass","number":"3","start":632.7,"end":634.7,"text":" One is a active."},{"title":"SEO and Core Web Vitals in HTML","number":"6","start":732.0,"end":733.0,"text":" You can learn here."},{"title":"CSS Selectors MasterClass","number":"17","start":631.6,"end":633.6,"text":" One is A-active."},{"title":"Id & Classes in HTML","number":"9","start":257.68,"end":259.68,"text":" Let's say there are classes in that tuition."}]
-----------------------------------
-"where is exercise 1 taught?"
-User asked this question related to the video chunks, you have to answer in a human way (dont mention the above format, its just for you) where and how much content is taught in which video (in which video and at what timestamp) and guide the user to go to that particular video. If user asks unrelated question, tell him that you can only answer questions related to the course
+Here are transcript lines from the course, most relevant first:
+1. " Like we were doing in our HTML course."
+2. " href is equal to, google.com."
+3. " whether you know HTML or not."
+4. " What will happen to writing CSS in style attribute?"
+5. " I wrote href is equal to this."
+
+Write a short, friendly explanation (3-5 sentences) covering what these lines teach, in the context of the student's question. Refer to them as "the first result", "the second result", etc. if needed.
+DO NOT mention any video number or timestamp — those will be listed separately below your explanation.

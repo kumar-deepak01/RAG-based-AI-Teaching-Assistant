@@ -95,7 +95,7 @@ def create_embedding(text_list, batch_size=32, max_retries=3):
 # df.to_parquet("embeddings.parquet")
 # print("Saved to embeddings.parquet")
 
-df=pd.read_parquet("embeddings.parquet")
+df = pd.read_parquet("embeddings_fixed.parquet")
 incoming_query = input("Ask a Question: ")
 question_embedding = create_embedding([incoming_query])[0]
 # print(question_embedding)

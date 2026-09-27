@@ -1,6 +1,8 @@
- I am teaching web devlopment in my sigma web development course. Here are video chunks containing video title, video number, start time in second, end time in second, the text at that time :
+It looks like we have some information about the "href" attribute here. The first result mentions HTML, which suggests that we're likely talking about a link in a webpage. The second result explicitly states that "href is equal to, google.com", which implies that "href" is short for "Hyperlink Reference", and it's used to link to another webpage. The third result reminds us that this is a fundamental concept, regardless of whether you know HTML or not. The fourth result is actually discussing a different topic, while the fifth result simply restates the definition we already saw.
 
-[{"title":"Introduction to CSS","number":"14","start":450.32,"end":452.32,"text":" I gave you an exercise"},{"title":"CSS Selectors MasterClass","number":"3","start":632.7,"end":634.7,"text":" One is a active."},{"title":"SEO and Core Web Vitals in HTML","number":"6","start":732.0,"end":733.0,"text":" You can learn here."},{"title":"CSS Selectors MasterClass","number":"17","start":631.6,"end":633.6,"text":" One is A-active."},{"title":"Id & Classes in HTML","number":"9","start":257.68,"end":259.68,"text":" Let's say there are classes in that tuition."}]
-----------------------------------
-"where is exercise 1 taught?"
-User asked this question related to the video chunks, you have to answer in a human way (dont mention the above format, its just for you) where and how much content is taught in which video (in which video and at what timestamp) and guide the user to go to that particular video. If user asks unrelated question, tell him that you can only answer questions related to the course
+Related spots in the course:
+1. 📺 Video 14 (Introduction to CSS) — ⏱️ 3:54
+2. 📺 Video 8 (Inline & Block Elements in HTML) — ⏱️ 2:14
+3. 📺 Video 3 (Basic Structure of an HTML Website) — ⏱️ 0:28
+4. 📺 Video 15 (Inline, Internal & External CSS) — ⏱️ 4:02
+5. 📺 Video 8 (Inline & Block Elements in HTML) — ⏱️ 4:13
