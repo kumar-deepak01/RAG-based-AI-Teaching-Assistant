@@ -1,0 +1,16 @@
+[
+  {"number": 1, "title": "Basic Structure of an HTML Website", "video_url": "https://youtu.be/BGeDBfCIqas?si=6UImEfZBeruit-Hi"},
+  {"number": 2, "title": "CSS Box Model - Margin, Padding & Borders", "video_url": "https://youtu.be/Xrxd6cEajhM?si=VVzSDWraNmSK0ea0"},
+  {"number": 3, "title": "CSS Selectors MasterClass", "video_url": "https://youtu.be/1cEG1T8beO4?si=fUnWrWPhRDADs3Ur"},
+  {"number": 4, "title": "Entities, Code tag and more on HTML", "video_url": "https://youtu.be/cvsbHZcDx8w?si=ARmKoOgrYmeZrMlp"},
+  {"number": 5, "title": "Exercise 1 - Pure HTML Media Player", "video_url": "https://youtu.be/5xFRg_TzlAg?si=xwS78gvGQL-Ra7QD"},
+  {"number": 6, "title": "SEO and Core Web Vitals in HTML", "video_url": "https://youtu.be/CyRlWlaJnTY?si=CzDvfC3-1dGJRU0Z"},
+  {"number": 7, "title": "Forms and input tags in HTML", "video_url": "https://youtu.be/tLBlhp0SA_0?si=La7YAm_ilPoChajK"},
+  {"number": 8, "title": "Inline & Block Elements in HTML", "video_url": "https://youtu.be/vnnlUCLfn6I?si=8G5fJglQzEb2lj7a"},
+  {"number": 9, "title": "Id & Classes in HTML", "video_url": "https://youtu.be/vlAWzsGd-Yk?si=ij3IStBY7EAAV7EY"},
+  {"number": 10, "title": "Video, Audio & Media in HTML", "video_url": "https://youtu.be/XZwBNDGuWGU?si=k_2wPXrPuMpW5Y-O"},
+  {"number": 11, "title": "Semantic Tags  in HTML", "video_url": "https://youtu.be/fhoDRB53DwY?si=OlbXecfp5njM-BMc"},
+  {"number": 12, "title": "Introduction to CSS", "video_url": "https://youtu.be/1dkfuga2_Ps?si=eWMiVhe2cfcKM3_I"},
+  {"number": 13, "title": "Inline, Internal & External CSS", "video_url": "https://youtu.be/-XwZpYIyCEA?si=CJ6J3US0Mk3WQJNT"},
+  {"number": 14, "title": "Exercise 1 - Solution & Shoutouts", "video_url": "https://youtu.be/anGMeDGvZhw?si=t4S3Rvr0HcBTf3-P"}
+]
